@@ -22,7 +22,7 @@ class Title(models.Model):
                                        null=True,
                                        blank=True,
                                        validators=[no_future])
-    description = models.TextField(max_length=200, null=True, blank=True)
+    description = models.TextField(max_length=200, blank=True)
     category = models.ForeignKey(
         Category,
         on_delete=models.SET_NULL,

@@ -61,3 +61,6 @@ class Buffer(models.Model):
         max_length=8,
         verbose_name='confirmation code',
     )
+
+    def __str__(self):
+        return self.email
