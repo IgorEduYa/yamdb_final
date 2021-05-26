@@ -32,6 +32,10 @@ Yamdb_final
 
 4) Yamdb_final was created by Igor Che, the yandex-practicum Python-development student.
 
-5) The project can be checked by www.trythis.ru.com
+5) The project can be checked by www.trythis.ru.com 
+
+    Note! It allows only 80 port connection
+
+6) Workflow badge:
 
 https://github.com/IgorEduYa/yamdb_final/actions/workflows/main.yml/badge.svg
