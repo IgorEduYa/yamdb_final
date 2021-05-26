@@ -13,7 +13,12 @@ SECRET_KEY = 'p&l%385148kslhtyn^##a1)ilz@4zqj=rq&agdol^##zgl9(vs'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['178.154.195.177', 'www.trythis.ru.com', 'trythis.ru.com']
+ALLOWED_HOSTS = [
+    '178.154.195.177',
+    'www.trythis.ru.com',
+    'trythis.ru.com',
+    '127.0.0.1',
+]
 
 
 # Application definition
