@@ -62,7 +62,6 @@ jobs:
           passphrase: ${{ secrets.PASSPHRASE }}
           stack_file_name: docker-compose.yaml
           script: |
-            cd yamdb_final
             touch .env
             sudo docker-compose stop
             sudo docker-compose rm web
