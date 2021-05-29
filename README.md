@@ -39,3 +39,5 @@ Yamdb_final
 6) Workflow badge:
 
 https://github.com/IgorEduYa/yamdb_final/actions/workflows/main.yml/badge.svg
+
+7) Enjoy! 
